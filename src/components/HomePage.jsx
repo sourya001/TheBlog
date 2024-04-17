@@ -10,18 +10,18 @@ function HomePage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {/* Sample blog post cards */}
           <div className="bg-white rounded-lg shadow-md p-6">
-            <h2 className="text-xl font-semibold mb-4">Lorem ipsum dolor sit amet</h2>
-            <p className="text-gray-700 mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut commodo ipsum sit amet lacus finibus, nec fringilla mi semper.</p>
+            <h2 className="text-xl font-semibold mb-4">Upload your views</h2>
+            <p className="text-gray-700 mb-4">we're excited to provide you with a platform to share your thoughts, ideas, and stories with the world. Whether you're a seasoned writer or just starting out, our intuitive interface and powerful tools make it easy to create and publish your content.</p>
             
           </div>
           <div className="bg-white rounded-lg shadow-md p-6">
-            <h2 className="text-xl font-semibold mb-4">Sed do eiusmod tempor incididunt</h2>
-            <p className="text-gray-700 mb-4">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <h2 className="text-xl font-semibold mb-4">Upload images</h2>
+            <p className="text-gray-700 mb-4">along with crafting compelling written content, you can enhance your blog posts with vibrant images that truly bring your stories to life. Whether you're sharing travel adventures, delicious recipes, or insightful tutorials, our image upload feature allows you to visually captivate your audience and make a lasting impression.</p>
            
           </div>
           <div className="bg-white rounded-lg shadow-md p-6">
-            <h2 className="text-xl font-semibold mb-4">Duis aute irure dolor in reprehenderit</h2>
-            <p className="text-gray-700 mb-4">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</p>
+            <h2 className="text-xl font-semibold mb-4">Safe and Secure</h2>
+            <p className="text-gray-700 mb-4">We're committed to keeping your data safe and secure. With robust encryption and stringent privacy measures in place, you can rest assured that your personal information remains confidential. Enjoy exploring and sharing your thoughts without worrying about compromising your privacy. Happy blogging!"</p>
             
           </div>
         </div>
