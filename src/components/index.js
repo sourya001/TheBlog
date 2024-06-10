@@ -28,5 +28,5 @@ export {
     AuthLayout, 
     Input,
     Select,
-    HomePage,
+   HomePage
 }
