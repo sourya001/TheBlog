@@ -57,10 +57,4 @@ export class AuthService {
 }
 
 const authService = new AuthService();
-<<<<<<< HEAD
 
-export default authService
-
-=======
-export default authService;
->>>>>>> 5edb3e6501e9c55207913a16a92bf2b1612842ec
