@@ -14,19 +14,19 @@ import AuthLayout from "./AuthLayout";
 import Input from "./Input";
 import HomePage from "./HomePage";
 export {
-    Header,
-    Footer,
-    Container,
-    Logo,
-    LogoutBtn,
-    RTE,
-    Signup,
-    Login,
-    Button,
-    PostForm,
-    PostCard,
-    AuthLayout, 
-    Input,
-    Select,
-   HomePage
-}
+  Header,
+  Footer,
+  Container,
+  Logo,
+  LogoutBtn,
+  RTE,
+  Signup,
+  Login,
+  Button,
+  PostForm,
+  PostCard,
+  AuthLayout,
+  Input,
+  Select,
+  HomePage,
+};
